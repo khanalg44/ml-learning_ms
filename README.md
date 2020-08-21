@@ -1,7 +1,6 @@
 # Principles-of-Machine-Learning-Python
 Principles of Machine Learning Python
-downloaded from 
-https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python
+downloaded from [Microsoft Learning Git](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
 
 # Modules
 - 1  IntroductionToMachineLearning
