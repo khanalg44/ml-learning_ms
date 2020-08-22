@@ -4,6 +4,15 @@ This course is offered by Microsoft and officially available on [EdX](https://ww
 
 However, I have added multiple new features in some of the notebooks to make it easier to understand as well as visualize.
 
+# Course Syllabus
+- Introduction to Machine Learning
+- Exploring Data
+- Data Preparation and Cleaning
+- Getting Started with Supervised Learning
+- Improving Model Performance
+- Machine Learning Algorithms
+- Unsupervised Learning
+
 # Notebooks   
 
 - IntroductionToMachineLearning
