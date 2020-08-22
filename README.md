@@ -46,3 +46,6 @@ downloaded from [Microsoft Learning Git](https://github.com/MicrosoftLearning/Pr
     * Hierarchical Clustering
         * Linkage Distance, (ward, average, complete)
 
+8. something 
+9. something
+10. something
