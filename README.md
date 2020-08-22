@@ -4,40 +4,41 @@ downloaded from [Microsoft Learning Git](https://github.com/MicrosoftLearning/Pr
 
 # Modules
 1.  IntroductionToMachineLearning
-  *  KNN Classification
+  1. KNN Classification
 
 2.  (a)VisualizingDataForClassification
-  * Box plot, Violin plot, 
+  1. Box plot, Violin plot, 
 2.  (b) VisualizingDataForRegression
-  * Combined Histogram, KDEs, 2D density plot, Pair plot
+  2. Combined Histogram, KDEs, 2D density plot, Pair plot
 3.  DataPreparation
-  * Feature Engineering
+
+  1. Feature Engineering
 4.  (a) ApplyingLinearRegression
 4.  (b) Classification
-  * Confusion matrix, Accuracy, Precision, Recall, F1, ROC, AUC
-  * Weighted Model
+  1. Confusion matrix, Accuracy, Precision, Recall, F1, ROC, AUC
+  2. Weighted Model
 4.  (c) IntroductionToRegression
-  * Errors: MSE, RMSE, Mean(Median) Absolute Error
-  * R Squared, adjusted R Squared
+  1. Errors: MSE, RMSE, Mean(Median) Absolute Error
+   2. Squared, adjusted R Squared
 5.  (a) Bias-Variance-Trade-Off
-  * L1, L2 Regularization
+  1. L1, L2 Regularization
 5.  (b) CrossValidation
-  * K-Fold Cross Validation
-  * Nested Cross Validation
+  1. K-Fold Cross Validation
+  2. Nested Cross Validation
 5.  (c) DimensionalityReduction
-  * Principle component analysis
+  1. Principle component analysis
 5.  (d) FeatureSelection
-  * Eliminate Low Variance Features
-  * Select k best features
+  1. Eliminate Low Variance Features
+  2. Select k best features
 6.  (a) Bagging
-  * Random Forest Model
+  1. Random Forest Model
 6.  Boosting
 6.  NaiveBayes
-  * Gaussian, Bernoulli, Multinomial
+  1. Gaussian, Bernoulli, Multinomial
 6.  NeuralNetworks
-  * Optimal Hyperparameters
+  1. Optimal Hyperparameters
 6.  SupportVectorMachines
-  * Linear Kernel, Radial Basis Function (RBF) Kernel
+  1. Linear Kernel, Radial Basis Function (RBF) Kernel
 7.  ApplicationOfClustering
   * Kmeans Clustering
   * Agglomerative Clustering
