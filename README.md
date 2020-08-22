@@ -1,10 +1,9 @@
 # Principles-of-Machine-Learning-Python
-Principles of Machine Learning Python
+Principles of Machine Learning in Python
+
 downloaded from [Microsoft Learning Git](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
 
-
-
-# Modules
+# Notebooks
 
 - IntroductionToMachineLearning
     - KNN Classification
