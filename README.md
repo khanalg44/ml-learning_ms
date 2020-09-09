@@ -28,6 +28,7 @@ However, I have added multiple new features in some of the notebooks to make it 
   - Feature Engineering
 
 **5. ApplyingLinearRegression**
+  - Construction and evaluation of LR model
 
 **6. Classification**
   - Confusion matrix, Accuracy, Precision, Recall, F1, ROC, AUC
@@ -55,6 +56,7 @@ However, I have added multiple new features in some of the notebooks to make it 
   - Random Forest Model
 
 **13. Boosting**
+  - Boosting methods: AdaBoost
 
 **14. NaiveBayes**
   - Gaussian, Bernoulli, Multinomial
